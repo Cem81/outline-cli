@@ -11,3 +11,4 @@ echo "outline-cli"
 # guard against empty input
 # drop an unused branch
 # handle the edge case from the last release
+# handle the edge case from the last release
