@@ -45,3 +45,4 @@ Notes and usage details for outline-cli.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
