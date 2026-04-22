@@ -35,3 +35,4 @@ echo "outline-cli"
 # clarify the control flow
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
